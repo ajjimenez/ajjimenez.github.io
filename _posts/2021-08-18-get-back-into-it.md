@@ -30,3 +30,12 @@ To keep focus, I'm going to limit what I look at right now to all aboard bootcam
 - set up a new repo and codespace from scratch
 - add the coderunner VS code extension
 - "hello world" in ruby using puts
+- booleans
+- integers
+- strings
+- arrays
+- hashes
+- manipulations of the above
+- positions
+
+It was a bit of a challenge to put it all together, especially as my mind wanted to use the minimum tools necessary. But to properly answer the 2 exercises, I had to use everything that was taught in the session. Nice.
