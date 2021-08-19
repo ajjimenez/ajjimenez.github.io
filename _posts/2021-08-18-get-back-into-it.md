@@ -38,4 +38,6 @@ To keep focus, I'm going to limit what I look at right now to all aboard bootcam
 - manipulations of the above
 - positions
 
+Total 2 sessions of the bootcamp.
+
 It was a bit of a challenge to put it all together, especially as my mind wanted to use the minimum tools necessary. But to properly answer the 2 exercises, I had to use everything that was taught in the session. Nice.
